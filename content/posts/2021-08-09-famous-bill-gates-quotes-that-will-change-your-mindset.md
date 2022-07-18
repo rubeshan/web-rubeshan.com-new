@@ -1,21 +1,24 @@
 ---
-date: 2021-08-09 11:02:30
-layout: post
-title: Famous Bill Gates Quotes that will change your mindset
-description: Bill Gates is known for being the Chief Executive and Chairman of
-  Microsoft, the world’s largest and most popular personal-computer software
-  company. Bill Gates leads the world in both net worth and charitable
-  donations.
-image: https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/699fa1de-65ae-4744-9ecc-a24597b5d01d/25a53b81-bc94-418d-a960-9c53a6ce00e1/1280x720/match/image.jpg
 optimized_image: https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/699fa1de-65ae-4744-9ecc-a24597b5d01d/25a53b81-bc94-418d-a960-9c53a6ce00e1/1280x720/match/image.jpg
-category: quotes
+title: Famous Bill Gates Quotes that will change your mindset
+category:
+  - Quotes
+featureImage: /uploads/download-7-.jpeg
+layout: post
+author: Ruben
+date: 2021-08-09 11:02:30
+paginate: false
+subtitle: Bill Gates Quotes that will change your mindset
 tags:
   - bill
   - gates
   - quotes
   - inspire
-author: Ruben
-paginate: false
+image: https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/699fa1de-65ae-4744-9ecc-a24597b5d01d/25a53b81-bc94-418d-a960-9c53a6ce00e1/1280x720/match/image.jpg
+description: Bill Gates is known for being the Chief Executive and Chairman of
+  Microsoft, the world’s largest and most popular personal-computer software
+  company. Bill Gates leads the world in both net worth and charitable
+  donations.
 ---
 William Henry Gates III is an American business magnate, software developer, investor, author, and philanthropist. He is a co-founder of Microsoft Corporation, along with his late childhood friend Paul Allen. [Wikipedia](https://en.wikipedia.org/wiki/Bill_Gates)
 
