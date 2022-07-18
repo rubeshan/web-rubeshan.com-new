@@ -3,6 +3,7 @@ title: Send email via python code within Odoo
 subtitle: Easy way to integrate email in automated actions
 category:
   - Tutorials
+  - Examples
 author: Ruben
 date: 2022-07-13T17:43:36.926Z
 featureImage: /uploads/mctaifsdfhvu7pj9ukmjzy.jpeg
