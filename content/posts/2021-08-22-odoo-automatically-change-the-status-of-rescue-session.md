@@ -1,20 +1,23 @@
 ---
-date: 2021-08-22 14:00:15
-layout: post
-title: Odoo - Automatically change the status of Rescue Session
-subtitle: Let's use Odoo's server actions to update the status of a POS rescue sessions
-description: When a POS rescue session is initiated in Odoo 14, you will not be
-  able to easily close it. We will look at sumplifying that in this tutorial
-image: /uploads/pos-session1.png
 optimized_image: /uploads/pos-session1.png
-category: tutorials
+title: Odoo - Automatically change the status of Rescue Session
+category:
+  - Examples
+  - Tutorials
+featureImage: /uploads/social_default_image.png
+layout: post
+author: Ruben
+date: 2021-08-22 14:00:15
+paginate: false
+subtitle: Let's use Odoo's server actions to update the status of a POS rescue sessions
 tags:
   - rescue
   - session
   - pos
   - odoo
-author: Ruben
-paginate: false
+image: /uploads/pos-session1.png
+description: When a POS rescue session is initiated in Odoo 14, you will not be
+  able to easily close it. We will look at sumplifying that in this tutorial
 ---
 I haven't found an easy way to automatically close the POS rescue sessions in Odoo. In case you are new to this subject, rescue sessions are POS sessions that are initiated by Odoo to help you continue the business without any interruptions.
 
