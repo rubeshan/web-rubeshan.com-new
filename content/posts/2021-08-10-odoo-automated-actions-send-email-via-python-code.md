@@ -1,22 +1,24 @@
 ---
-date: 2021-08-10 14:44:23
-layout: post
+optimized_image: https://www.cloudways.com/blog/wp-content/uploads/Email-Hosting-Small-Business.jpg
 title: Odoo Automated actions - Send email via Python code
+category:
+  - Tutorials
+featureImage: /uploads/social_default_image.png
+layout: post
+author: Ruben
+date: 2021-08-10 14:44:23
+paginate: false
 subtitle: This tutotial will show you how to send email via python code. Mostly
   used in the Server actions such as Automated action, or Scheduled actions in
   Odoo.
-description: Odoo has a built-in function to send email. We will explore how we
-  can utilize that to send an email.
-image: https://www.cloudways.com/blog/wp-content/uploads/Email-Hosting-Small-Business.jpg
-optimized_image: https://www.cloudways.com/blog/wp-content/uploads/Email-Hosting-Small-Business.jpg
-category: tutorials
 tags:
   - email
   - odoo
   - automated
   - action
-author: Ruben
-paginate: false
+image: https://www.cloudways.com/blog/wp-content/uploads/Email-Hosting-Small-Business.jpg
+description: Odoo has a built-in function to send email. We will explore how we
+  can utilize that to send an email.
 ---
 Sending an email via python code is pretty straight forward. This is useful for someone who wants to customize their Odoo server actions. 
 
