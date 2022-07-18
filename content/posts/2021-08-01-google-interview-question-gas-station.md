@@ -1,22 +1,23 @@
 ---
 draft: true
-layout: post
 optimized_image: https://ucarecdn.com/dae3cff1-f27a-4c09-9369-62e5d1715572/-/resize/800x600/large.png
+featureImage: /uploads/download-4-.jpeg
+layout: post
 author: Ruben
 post_thumbnail: https://ucarecdn.com/dae3cff1-f27a-4c09-9369-62e5d1715572/-/resize/800x600/large.png
 featured: false
+category: examples
 date: 2021-08-01T20:33:32.833Z
+paginate: false
 title: Google Interview Question - Gas Station
 subtitle: Most of the SDE may have gone through the interview and seen a similar problem.
-description: Google is known for its coding interview questions. Here is one of
-  the popular question which they ask in their selection process.
-image: https://ucarecdn.com/dae3cff1-f27a-4c09-9369-62e5d1715572/-/resize/800x600/large.png
-category: examples
 tags:
   - interview
   - career
   - google
-paginate: false
+image: https://ucarecdn.com/dae3cff1-f27a-4c09-9369-62e5d1715572/-/resize/800x600/large.png
+description: Google is known for its coding interview questions. Here is one of
+  the popular question which they ask in their selection process.
 ---
 
 Given two integer arrays **A** and **B** of size **N**.\
