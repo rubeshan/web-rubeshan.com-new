@@ -1,20 +1,22 @@
 ---
-date: 2021-08-08 10:08:40
-layout: post
-title: Odoo - Install Automated Action module
-subtitle: Automated actions help perform some of the repeated tasks seamlessly.
-description: Automated actions help with the simplication of the workflows and
-  help you with the tasks in your Odoo ERP
-image: https://marketing-automation.ca/images/MAC-Hero-Graphic.png
 optimized_image: https://marketing-automation.ca/images/MAC-Hero-Graphic.png
-category: tutorials
+title: Odoo - Install Automated Action module
+category:
+  - Tutorials
+featureImage: /uploads/social_default_image.png
+layout: post
+author: Ruben
+date: 2021-08-08 10:08:40
+paginate: false
+subtitle: Automated actions help perform some of the repeated tasks seamlessly.
 tags:
   - Odoo
   - automated
   - actions
   - ERP
-author: Ruben
-paginate: false
+image: https://marketing-automation.ca/images/MAC-Hero-Graphic.png
+description: Automated actions help with the simplication of the workflows and
+  help you with the tasks in your Odoo ERP
 ---
 Odoo has several ways to help you achieve your tasks and simplify the processes or workflows. One of them is Automated actions. Generally, the "automated actions" module is disabled in the default installation. Here is how to enable the automated actions.
 
