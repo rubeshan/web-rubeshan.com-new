@@ -38,7 +38,7 @@ export default {
   // Main Layout/Style
   layout: {
     width: 'contained', // Options: contained, full
-    theme: 'one-column' // Options: one-column, sidebar-right, sidebar-left
+    theme: 'sidebar-right' // Options: one-column, sidebar-right, sidebar-left
   },
 
   // Card Layout
@@ -51,7 +51,7 @@ export default {
   disqus: {
     on: true,
     loadingStrategy: 'button', // Options: onload, lazy, button
-    siteShortName: 'blog-danielkelly-io' // 'blog-danielkelly-io'
+    siteShortName: 'rubeshan' // 'blog-danielkelly-io'
   },
 
   // Newsletter Subscribe
