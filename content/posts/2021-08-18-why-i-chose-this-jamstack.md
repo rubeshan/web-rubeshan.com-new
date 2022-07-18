@@ -1,21 +1,22 @@
 ---
-date: 2021-08-17 20:40:08
-layout: post
-title: Why I chose this Jamstack
-subtitle: Let's make using static site generators a thing of the future....
-description: Thanks for checking this blog out. If you have already looked under
-  the hood, you'd notice that this site is a Jamstack installation. Here, I will
-  discuss why I chose this stack and some of the pros and cons about it.
-image: https://newscrewdriver.files.wordpress.com/2020/10/jamstack-logo.png
 optimized_image: https://newscrewdriver.files.wordpress.com/2020/10/jamstack-logo.png
+title: Why I chose this Jamstack
 category: examples
+featureImage: /uploads/images-2-.png
+layout: post
+author: Ruben
+date: 2021-08-17 20:40:08
+paginate: false
+subtitle: Let's make using static site generators a thing of the future....
 tags:
   - Jamstack
   - static
   - site
   - github
-author: Ruben
-paginate: false
+image: https://newscrewdriver.files.wordpress.com/2020/10/jamstack-logo.png
+description: Thanks for checking this blog out. If you have already looked under
+  the hood, you'd notice that this site is a Jamstack installation. Here, I will
+  discuss why I chose this stack and some of the pros and cons about it.
 ---
 Thanks for checking this blog out. If you have already looked under the hood, you'd notice that this site is a Jamstack installation. Here, I will discuss why I chose this stack and some of the pros and cons about it.
 
