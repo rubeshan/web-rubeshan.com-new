@@ -1,21 +1,23 @@
 ---
 draft: true
-layout: post
 optimized_image: https://user-images.githubusercontent.com/3584560/71660860-0524f680-2d55-11ea-87d8-39e9f2c9d8f8.png
+featureImage: /uploads/markup-hero.jpg
+layout: post
 author: Ruben
 post_thumbnail: https://user-images.githubusercontent.com/3584560/71660861-0524f680-2d55-11ea-9191-659c97802a70.png
 featured: true
+category:
+  - Examples
 date: 2021-07-28 11:19:10
+paginate: false
 title: Free UI screens coded using React-Native
 subtitle: Amazing UI kit by react-native is just perfect for the mobile app development.
-description: Amazing UI kit by react-native is just perfect for the mobile app login screen
-image: https://user-images.githubusercontent.com/3584560/71660860-0524f680-2d55-11ea-87d8-39e9f2c9d8f8.png
-category: freebies
 tags:
   - templates
   - html
   - mobile
-paginate: false
+image: https://user-images.githubusercontent.com/3584560/71660860-0524f680-2d55-11ea-87d8-39e9f2c9d8f8.png
+description: Amazing UI kit by react-native is just perfect for the mobile app login screen
 ---
 
 # React-UI-Kit.com freebies
