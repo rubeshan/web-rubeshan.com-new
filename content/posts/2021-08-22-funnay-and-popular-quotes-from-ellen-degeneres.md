@@ -1,22 +1,24 @@
 ---
-date: 2021-08-22 12:50:56
-layout: post
+optimized_image: https://celebvogue.com/wp-content/uploads/2019/07/Ellen-DeGeneres.jpg
 title: Funny and Popular quotes from Ellen DeGeneres
+category:
+  - Quotes
+featureImage: /uploads/download-8-.jpeg
+layout: post
+author: Ruben
+date: 2021-08-22 12:50:56
+paginate: false
 subtitle: Some of the quotes are inspiring and some and funny. Nevertheless, you
   will find them useful.
-description: Ellen DeGeneres (born March 26, 1958)is an American stand-up
-  comedian, television host and actress. She is the host of the talk show The
-  Ellen DeGeneres Show.
-image: https://celebvogue.com/wp-content/uploads/2019/07/Ellen-DeGeneres.jpg
-optimized_image: https://celebvogue.com/wp-content/uploads/2019/07/Ellen-DeGeneres.jpg
-category: quotes
 tags:
   - ellen
   - tv
   - show
   - host
-author: Ruben
-paginate: false
+image: https://celebvogue.com/wp-content/uploads/2019/07/Ellen-DeGeneres.jpg
+description: Ellen DeGeneres (born March 26, 1958)is an American stand-up
+  comedian, television host and actress. She is the host of the talk show The
+  Ellen DeGeneres Show.
 ---
 Ellen DeGeneres (born March 26, 1958)is an American stand-up comedian, television host and actress. She is the host of the talk show The Ellen DeGeneres Show. She starred in two television sitcoms, Ellen from 1994 to 1998 and The Ellen Show from 2001 to 2002. She is seen as a very generous person when it comes to giving presents on her talk show The Ellen DeGeneres Show. She is also seen as an inspiration to people to be who you are.
 
