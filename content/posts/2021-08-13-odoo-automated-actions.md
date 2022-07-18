@@ -1,18 +1,20 @@
 ---
-date: 2021-08-13 11:16:42
-layout: post
-title: Odoo Automated Actions
-subtitle: I've put together a list of Automated actions which you can take advantage of.
-description: Here are a list of Automated actions tutorials and examples for your reference.
-image: /uploads/social_default_image.png
 optimized_image: /uploads/social_default_image.png
-category: collections
+title: Odoo Automated Actions
+category:
+  - Examples
+featureImage: /uploads/social_default_image.png
+layout: post
+author: Ruben
+date: 2021-08-13 11:16:42
+paginate: false
+subtitle: I've put together a list of Automated actions which you can take advantage of.
 tags:
   - odoo
   - automated
   - actions
-author: Ruben
-paginate: false
+image: /uploads/social_default_image.png
+description: Here are a list of Automated actions tutorials and examples for your reference.
 ---
 Automated actions in Odoo help you achieve a lot more work than what you will get done manually. These Automated actions can be triggered based on multiple conditions or set as a cron job. I have put together some tips and tricks for the Odoo platform.
 
