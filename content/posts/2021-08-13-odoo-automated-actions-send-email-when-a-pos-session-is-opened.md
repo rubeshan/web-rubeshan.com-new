@@ -6,8 +6,8 @@ subtitle: As a business owner, you want to know when your staff opens a new POS
   session. Not only that, the details of the new session
 description: As a business owner, you want to know when your staff opens a new
   POS session. Not only that, the details of the new session
-image: /assets/img/uploads/email_ss_1920.png
-optimized_image: /assets/img/uploads/email_ss_1920.png
+image: /uploads/email_ss_1920.png
+optimized_image: /uploads/email_ss_1920.png
 category: tutorials
 tags:
   - odoo

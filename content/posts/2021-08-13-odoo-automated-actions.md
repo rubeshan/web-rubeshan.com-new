@@ -4,8 +4,8 @@ layout: post
 title: Odoo Automated Actions
 subtitle: I've put together a list of Automated actions which you can take advantage of.
 description: Here are a list of Automated actions tutorials and examples for your reference.
-image: /assets/img/uploads/social_default_image.png
-optimized_image: /assets/img/uploads/social_default_image.png
+image: /uploads/social_default_image.png
+optimized_image: /uploads/social_default_image.png
 category: collections
 tags:
   - odoo
