@@ -1,24 +1,26 @@
 ---
-date: 2021-08-20 12:57:37
-layout: post
+optimized_image: https://variety.com/wp-content/uploads/2019/12/jeff_bezos2019_rev-1.png
 title: Interesting thoughts from Jeff Bezos
+category:
+  - Quotes
+featureImage: /uploads/skynews-jeff-bezos-amazon_5437859.jpeg
+layout: post
+author: Ruben
+date: 2021-08-20 12:57:37
+paginate: false
 subtitle: When markets opened on July 27, 2017, Bezos briefly became the world's
   richest person, surpassing Bill Gates with a net worth of just over $90
   billion.
-description: Jeffrey Preston Bezos is an American entrepreneur, media
-  proprietor, investor, and computer engineer. He is the founder and executive
-  chairman of Amazon, where he previously served as the chairman, president, and
-  CEO
-image: https://variety.com/wp-content/uploads/2019/12/jeff_bezos2019_rev-1.png
-optimized_image: https://variety.com/wp-content/uploads/2019/12/jeff_bezos2019_rev-1.png
-category: quotes
 tags:
   - amazon
   - founder
   - blueorigin
   - space
-author: Ruben
-paginate: false
+image: https://variety.com/wp-content/uploads/2019/12/jeff_bezos2019_rev-1.png
+description: Jeffrey Preston Bezos is an American entrepreneur, media
+  proprietor, investor, and computer engineer. He is the founder and executive
+  chairman of Amazon, where he previously served as the chairman, president, and
+  CEO
 ---
 Jeffrey Preston Bezos (born Jeffrey Preston Jorgensen; January 12, 1964) is the founder of Amazon.com, Inc. He was also the chairman, president, and Chief Executive Officer (CEO) of Amazon.com. However, Bezos said in a blog post he would soon step down from this position and become Executive Chair of the Amazon Board.
 
