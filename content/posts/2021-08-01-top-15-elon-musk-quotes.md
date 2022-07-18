@@ -1,25 +1,27 @@
 ---
 draft: true
-layout: post
 optimized_image: https://ucarecdn.com/97bb664e-8124-4966-befc-70ec679e45c3/-/resize/800x600/elon-musk-tells-followers-to-use-signal-messaging-app-amid-w_9m1y.1920.webp
+featureImage: /uploads/download-6-.jpeg
+layout: post
 author: Ruben
 post_thumbnail: https://ucarecdn.com/f7aca8b2-5cb3-448c-983c-b720843f9c1d/-/resize/800x600/R.jpeg
 featured: true
+category:
+  - Quotes
 date: 2021-08-01T06:10:18.862Z
+paginate: false
 title: Top 15 Elon Musk quotes
 subtitle: Elon Reeve Musk FRS is an entrepreneur and business magnate
+tags:
+  - Quotes
+  - Elon Musk
+  - Tips
+image: https://ucarecdn.com/97bb664e-8124-4966-befc-70ec679e45c3/-/resize/800x600/elon-musk-tells-followers-to-use-signal-messaging-app-amid-w_9m1y.1920.webp
 description: Elon Reeve Musk FRS is an entrepreneur and business magnate. He is
   the founder, CEO, and Chief Engineer at SpaceX; early stage investor, CEO, and
   Product Architect of Tesla, Inc.; founder of The Boring Company; and
   co-founder of Neuralink and OpenAI. A centibillionaire, Musk is one of the
   richest people in the world
-image: https://ucarecdn.com/97bb664e-8124-4966-befc-70ec679e45c3/-/resize/800x600/elon-musk-tells-followers-to-use-signal-messaging-app-amid-w_9m1y.1920.webp
-category: quotes
-tags:
-  - Quotes
-  - Elon Musk
-  - Tips
-paginate: false
 ---
 Elon Reeve Musk FRS is an entrepreneur and business magnate. He is the founder, CEO, and Chief Engineer at SpaceX; early stage investor, CEO, and Product Architect of Tesla, Inc.; founder of The Boring Company; and co-founder of Neuralink and OpenAI. A centibillionaire, Musk is one of the richest people in the world.
 
