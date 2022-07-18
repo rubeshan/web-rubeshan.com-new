@@ -1,20 +1,23 @@
 ---
-date: 2021-08-09 11:48:29
-layout: post
+optimized_image: https://mk0testdemonsitv8fjd.kinstacdn.com/wp-content/uploads/2019/05/wordpress.gif
 title: Best FREE WordPress Themes & Templates for 2021 (Ultimate List of the
   Most Beautiful Themes)
-description: Having a fast and beautiful theme for your Wordpress site is
-  essential for the site's growth. Here are some of the best free Wordpress
-  themes
-image: https://mk0testdemonsitv8fjd.kinstacdn.com/wp-content/uploads/2019/05/wordpress.gif
-optimized_image: https://mk0testdemonsitv8fjd.kinstacdn.com/wp-content/uploads/2019/05/wordpress.gif
-category: freebies
+category:
+  - Examples
+featureImage: /uploads/wordpress-logo.png
+layout: post
+author: Ruben
+date: 2021-08-09 11:48:29
+paginate: true
+subtitle: Let's make the web a little more beautiful
 tags:
   - wordpress
   - themes
   - free
-author: Ruben
-paginate: true
+image: https://mk0testdemonsitv8fjd.kinstacdn.com/wp-content/uploads/2019/05/wordpress.gif
+description: Having a fast and beautiful theme for your Wordpress site is
+  essential for the site's growth. Here are some of the best free Wordpress
+  themes
 ---
 Having a visually attractive is just as important as having a fast and secure theme. If the users feel that, the site is slow and unorganized, visitors will stop coming back to your site. Based on a study, 75% of users will [judge a company’s credibility based](https://www.kinesisinc.com/the-truth-about-web-design/) on the website’s visual design. 
 
