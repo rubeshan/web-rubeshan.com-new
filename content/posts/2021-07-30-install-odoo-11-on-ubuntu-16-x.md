@@ -1,21 +1,22 @@
 ---
-date: 2021-08-08 11:22:45
-title: Install Odoo 11 on Ubuntu 16.x
-subtitle: ""
-description: Odoo is one of the fastest growing ERP out there. Here is the
-  installation steps for you to setup locally on your server.
-image: https://ucarecdn.com/5760ee62-dde9-4075-9982-a609740a6582/-/resize/800x600/new-size_odoo.jpeg
+draft: true
 optimized_image: https://ucarecdn.com/5760ee62-dde9-4075-9982-a609740a6582/-/resize/800x600/new-size_odoo.jpeg
-category: tutorials
+title: Install Odoo 11 on Ubuntu 16.x
+featureImage: /uploads/social_default_image.png
+layout: post
+author: Ruben
+featured: false
+date: 2021-08-08 11:22:45
+paginate: false
+subtitle: Install Odoo 11 on Ubuntu 16.x
 tags:
   - odoo
   - install
   - python
-author: Ruben
-paginate: false
-layout: post
-draft: true
-featured: false
+image: https://ucarecdn.com/5760ee62-dde9-4075-9982-a609740a6582/-/resize/800x600/new-size_odoo.jpeg
+description: Odoo is one of the fastest growing ERP out there. Here is the
+  installation steps for you to setup locally on your server.
+category: tutorials
 ---
 
 Odoo is a suite of business management software tools including, for example, CRM, e-commerce, billing, accounting, manufacturing, warehouse, project management, and inventory management. The Community version is a libre software, licensed under the GNU LGPLv3. [Wikipedia]
