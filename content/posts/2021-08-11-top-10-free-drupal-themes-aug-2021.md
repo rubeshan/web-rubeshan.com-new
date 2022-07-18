@@ -1,20 +1,22 @@
 ---
-date: 2021-08-11 12:42:53
-layout: post
+optimized_image: https://www.drupal.org/files/styles/grid-10/public/final_2.png?itok=9yH_m2IU
 title: Top 10 Free Drupal Themes (Aug 2021)
+category:
+  - Examples
+featureImage: /uploads/images-2-.jpeg
+layout: post
+author: Ruben
+date: 2021-08-11 12:42:53
+paginate: false
 subtitle: There is alsmot one new good themes being published each week. In this
   list, we tried our best to get you the top 10 themes.
-description: Drpal is an advanced CMS which will be able to host any type of web
-  application. Take LinkedIn for instance. It was built on top of Drupal
-image: https://www.drupal.org/files/styles/grid-10/public/final_2.png?itok=9yH_m2IU
-optimized_image: https://www.drupal.org/files/styles/grid-10/public/final_2.png?itok=9yH_m2IU
-category: freebies
 tags:
   - themes
   - drupal
   - cms
-author: Ruben
-paginate: false
+image: https://www.drupal.org/files/styles/grid-10/public/final_2.png?itok=9yH_m2IU
+description: Drpal is an advanced CMS which will be able to host any type of web
+  application. Take LinkedIn for instance. It was built on top of Drupal
 ---
 Drupal is a free and open-source web content management framework written in PHP and distributed under the GNU General Public License. Drupal provides a back-end framework for at least 13% of the top 10,000 websites worldwide – ranging from personal blogs to corporate, political, and government sites.
 
