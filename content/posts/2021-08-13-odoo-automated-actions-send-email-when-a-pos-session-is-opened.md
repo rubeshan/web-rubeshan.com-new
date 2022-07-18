@@ -1,21 +1,23 @@
 ---
-date: 2021-08-13 12:25:59
-layout: post
+optimized_image: /uploads/email_ss_1920.png
 title: Odoo Automated Actions - Send email When a POS session is opened
+category:
+  - Examples
+featureImage: /uploads/social_default_image.png
+layout: post
+author: Ruben
+date: 2021-08-13 12:25:59
+paginate: false
 subtitle: As a business owner, you want to know when your staff opens a new POS
   session. Not only that, the details of the new session
-description: As a business owner, you want to know when your staff opens a new
-  POS session. Not only that, the details of the new session
-image: /uploads/email_ss_1920.png
-optimized_image: /uploads/email_ss_1920.png
-category: tutorials
 tags:
   - odoo
   - automated
   - action
   - POS
-author: Ruben
-paginate: false
+image: /uploads/email_ss_1920.png
+description: As a business owner, you want to know when your staff opens a new
+  POS session. Not only that, the details of the new session
 ---
 In this tutorial, we will look at just how we can inform the business owner or the Odoo Administrator when a new POS session is opened. 
 
