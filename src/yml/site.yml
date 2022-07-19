@@ -1,0 +1,23 @@
+formspree_form_id: formspree_form_id
+name: Ruben Shan
+title: Just another blog
+description: You will find useful and entertaining content for your everyday life
+tags:
+  - Blog
+  - Tempaltes
+  - Freebies
+  - Quotes
+  - Famouspeople
+  - tutorials
+  - downloads
+show_hero: false
+paginate: 5
+menu:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
+email: contact@rubeshan.com
+disqus_username: rubeshan
