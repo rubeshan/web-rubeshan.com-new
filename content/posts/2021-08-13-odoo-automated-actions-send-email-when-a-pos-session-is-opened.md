@@ -23,7 +23,7 @@ In this tutorial, we will look at just how we can inform the business owner or t
 
 You will create a new Automated action using the similar settings as below:
 
-![](/assets/img/uploads/screen-shot-2021-08-13-at-11.50.41-am.png)
+![](/uploads/screen-shot-2021-08-13-at-11.50.41-am.png)
 
 I set the "Trigger" to "On Update" because of the field we are comparing. If you want to compare other fields, you can use other suitable "Trigger".
 
