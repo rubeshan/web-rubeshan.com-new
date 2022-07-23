@@ -33,7 +33,7 @@ I haven't found an easy way to automatically close the POS rescue sessions in Od
 
 To help with this issue, you can create the following Automated Actions which will help with that. See the example trigger below for guidance.
 
-![](/assets/img/uploads/screen-shot-2021-08-22-at-2.35.35-pm.png)
+![](/uploads/screen-shot-2021-08-22-at-2.35.35-pm.png)
 
 Here are the values for ease of copy and paste.
 

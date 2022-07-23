@@ -43,7 +43,7 @@ For simplicity, I set the "Action to do" to "Send Email" and will use the built-
 
 I setup a simple email template as below. Here are some of the values I care about:
 
-![](/assets/img/uploads/screen-shot-2021-08-13-at-12.36.40-pm.png)
+![](/uploads/screen-shot-2021-08-13-at-12.36.40-pm.png)
 
 POS New session opened email template
 
