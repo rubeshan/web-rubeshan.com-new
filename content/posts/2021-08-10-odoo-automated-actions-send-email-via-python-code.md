@@ -40,6 +40,6 @@ if msg_id:
 
 Alternatively, you can use the built-in "Send Email" option in the action to do.
 
-![](/assets/img/uploads/screen-shot-2021-08-10-at-2.54.48-pm.png)
+![](/uploads/screen-shot-2021-08-10-at-2.54.48-pm.png)
 
 If you found this useful, please leave a comment below.
