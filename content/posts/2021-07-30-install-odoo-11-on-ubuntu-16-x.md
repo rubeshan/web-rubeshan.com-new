@@ -1,7 +1,7 @@
 ---
 draft: true
 optimized_image: https://ucarecdn.com/5760ee62-dde9-4075-9982-a609740a6582/-/resize/800x600/new-size_odoo.jpeg
-title: Install Odoo 11 on Ubuntu 16.x
+title: "Odoo: Install Odoo 11 on Ubuntu 16.x"
 featureImage: /uploads/social_default_image.png
 layout: post
 author: Ruben
