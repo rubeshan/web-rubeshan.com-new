@@ -1,6 +1,6 @@
 ---
 optimized_image: /uploads/email_ss_1920.png
-title: Odoo Automated Actions - Send email When a POS session is opened
+title: "Odoo: Automated Actions - Send email When a POS session is opened"
 category:
   - Examples
 featureImage: /uploads/social_default_image.png
