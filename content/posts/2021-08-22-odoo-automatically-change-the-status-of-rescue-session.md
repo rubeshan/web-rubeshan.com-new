@@ -1,6 +1,6 @@
 ---
 optimized_image: /uploads/pos-session1.png
-title: Odoo - Automatically change the status of Rescue Session
+title: "Odoo: Automatically change the status of Rescue Session"
 category:
   - Examples
   - Tutorials
