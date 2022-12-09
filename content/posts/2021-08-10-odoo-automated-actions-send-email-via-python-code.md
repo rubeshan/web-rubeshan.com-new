@@ -1,6 +1,6 @@
 ---
 optimized_image: https://www.cloudways.com/blog/wp-content/uploads/Email-Hosting-Small-Business.jpg
-title: Odoo Automated actions - Send email via Python code
+title: "Odoo: Automated actions - Send email via Python code"
 category:
   - Tutorials
 featureImage: /uploads/social_default_image.png
